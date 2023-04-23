@@ -1,0 +1,6 @@
+   firstname     lastname      average
+      Donald         Duck         68.1 
+         Joe        Smith         78.4 
+      Mickey        Mouse         81.3 
+      Minnie        Mouse         93.1 
+     Abraham      Lincoln         95.1 

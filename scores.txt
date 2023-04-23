@@ -1,0 +1,6 @@
+lastname,firstname,test1,test2,test3
+Smith,Joe,75.6,78.3,81.4
+Lincoln,Abraham,94.5,93.2,97.5
+Duck,Donald,65.2,67.8,71.2
+Mouse,Minnie,93.4,91.6,94.3
+Mouse,Mickey,81.5,80.3,82.0

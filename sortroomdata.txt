@@ -1,0 +1,93 @@
+bldgcode,rnumber,area,capacity,smart,type,comment 
+PE,023,   45, 35,0,4,Weight traning 
+PE,022,   98, 35,0,4,Weight traning 
+FH,111,  288, 22,0,2,Photo Lecture/Lab with Portable TV/DVD/VCR (26 Chairs) 
+SC,177,  342, 26,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+OH,101,  350, 20,0,1,Classroom with Portable TV/DVD/VCR/Overhead Projector 
+OH,107,  353, 24,0,1,Classroom with Portable Overhead Projector 
+TB,104,  361, 25,0,1,Classroom with Portable TV/VCR/Overhead Projector (Good for 24) 
+LC,036,  431, 28,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+HC,126,  433, 30,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+FH,016,  433, 30,0,2,Dry Photo Lab 
+OH,109,  438, 30,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+HC,172,  439, 27,0,1,Classroom with Portable TV/VCR 
+OH,102,  440, 25,0,1,Classroom with Portable TV/DVD/VCR and an Extra Set of Portable TV/VCR 
+LC,032,  440, 15,0,4,Echo Times 
+SC,125,  458, 30,1,1,Classroom with Portable TV/VCR/Overhead Projector 
+LC,020,  459, 26,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+SC,130,  469, 34,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+OH,103,  470, 35,0,1,Classroom with Portable TV/VCR 
+OH,104,  470, 25,0,1,Classroom with Portable Overhead Projector 
+HC,161,  490, 30,0,1,Classroom with Portable TV/DVC/VCR/Overhead Projector 
+SC,124,  500, 34,0,1,Classroom 
+HC,127,  510, 30,0,1,Classroom 
+HC,129,  511, 35,0,1,Classroom with Portable TV/VCR/Overhead Projector 
+HC,173,  524, 35,1,1,Smart Classroom with Portable Overhead Projector 
+SC,144,  528, 20,0,2,Science Center Computer Lectures/Lab with 22 Stations 
+HC,169,  530, 28,0,1,Classroom with Portable TV/VCR 
+HC,170,  538, 37,0,1,Classroom with Portable TV/DVD/VCR/Overhead Projector 
+TB,119,  584, 42,0,1,Classroom with Portable TV/VCR/Overhead Projector (Max 35) 
+HC,166,  585, 30,0,1,Classroom 
+FA,177,  621, 42,0,1,Music Classroom with One Piano + Portable TV/DVD/VCR (Max 25) 
+LC,086,  636, 30,0,2,Classroom with 3 Long table and Student Chairs (Very Different Setup) 
+HC,171,  649, 45,1,1,Smart Classroom with Portable Overhead Projector 
+SC,111,  657, 24,0,2,Engineering lab 
+FA,178,  658, 42,0,1,Music Classroom with Two Pianos + Organ + Computer (Max 25) 
+HC,165,  662, 50,1,1,Smart Classroom with Portable Overhead Projector 
+OH,106,  666, 26,0,1,Classroom with Portable Overhead Projector 
+PV,5A,  720, 40,1,1,* 
+PV,5B,  720, 39,1,1,* 
+PE,091,  761, 35,0,1,Classroom with Portable TV/VCR/Overhead Projector (Good 40 Students) 
+PE,092,  766, 30,0,1,Classroom with Portable TV/VCR/Overhead Projector (Good 40 Students) 
+LC,038,  769, 40,1,1,Smart Classroom with Portable Overhead Projector 
+BC,101,  770, 32,0,2,Smart Computer Lecture/Lab with 35 Stations 
+FA,188,  782, 50,0,4,Piano Classroom with 18 Pianos 
+LC,039,  785, 33,1,1,Smart Classroom with Portable Overhead Projector 
+PV,3,  800, 44,1,1,* 
+OH,105,  856, 38,0,1,Classroom with Portable TV/DVD/VCR/Overhead Projector 
+OH,108,  860, 35,0,1,Classroom with Portable TV/VCR + Two Overhead Projectors 
+SC,184,  861, 25,0,2,Biology Lab 
+BC,102,  871, 25,0,2,Smart Computer Lecture/Lab with 25 Stations 
+SC,133,  881, 50,1,1,Smart Classroom 
+SC,158,  886, 24,0,2,Chemistry Lab 
+FH,110,  893, 65,1,1,Smart Classroom and Portable Overhead Projector 
+SC,185,  894, 25,0,2,Biology Lab 
+SC,190,  897, 30,0,2,Biology Lab 
+SC,104,  904, 55,0,1,Classroom with Portable Overhead Projector 
+HC,156,  908, 27,0,2,Dental Lab 
+TB,101,  930, 48,0,1,Classroom with Portable TV/VCR 
+SC,155,  934, 24,0,2,Chemistry Lab 
+SC,191,  935, 30,0,2,Biology Lab 
+HC,174,  942, 15,0,2,Nursing Lecture/Lab with Portable TV/VCR/Overhead Projector 
+SC,176,  946, 42,0,2,Anatomy/Physiology Lab 
+SC,166,  951, 30,0,2,Geology Lab/Lecture 
+PV,6,  960, 40,1,1,* 
+PV,7,  960, 36,1,1,* 
+BC,105,  961, 40,1,1,Smart Classroom/Portable Overhead Projector 
+SC,154, 1030, 25,0,2,Chemistry Lab 
+FA,120, 1040, 70,1,1,"Smart Classroom with DVD/VCR 
+FA,225, 1058, 35,0,2,Smart Computer Lab with 25 Stations 
+SC,102, 1068, 57,0,1,Classroom with Portable Overhead Projector 
+SC,115, 1131, 37,0,2,Math lab + Private Testing Room 
+SC,159, 1193, 48,0,2,Geology Lecture/Lab/Seismograph 
+FA,151, 1196, 35,0,3,Design Lab with PortableTV/VCR 
+FA,153, 1196, 35,0,3,Design Lab with Portable TV/VCR 
+FA,202, 1319, 30,0,3,Graphics/Drafting Lab 
+SC,101, 1349, 83,1,1,Classroom with Portable Overhead Projector (Auditorium Seting) 
+PE,040, 1513, 50,0,4,Aerobics Machines 
+PV,4, 1520, 62,1,1,* 
+FA,032, 1540, 50,0,3,Studio Theatre Backstage with 86 Chairs 
+FA,015, 1546, 30,0,3,Jewelry Lab 
+FA,201, 1717, 40,0,3,Class Lab with Portable TV/VCR 
+FA,072, 1829,120,0,1,Auditorium Classroom with Grand Piano (Perfect for Classroom) 
+FA,075, 1951,100,0,4,Orchestra/Band Only 
+FA,226, 2127, 35,0,3,Art Lab with Portable TV/VCR 
+PE,060, 2357, 50,0,4,Gymnastics (Yoga Class Lecture/Lab) 
+FA,010, 2397, 30,0,3,Ceramics Lab 
+SC,120, 2575, 45,0,2,Physics/Astronomy Lecture/Lab 
+FH,120, 2693,120,1,1,Smart Classroom with Portable TV/DVD/VCR/Overhead Projector 
+FA,051, 3229, 30,0,3,Sculpture Class Lab 
+PE,020, 3268, 50,0,4,Weight traning 
+OH,096, 3613,400,0,4,Smart Auditorium 
+FA,150, 4676,604,0,4,Theatre Audience 
+PE,030,11292, 50,0,4,Gym (Basketball Court and Graduation Room) 
